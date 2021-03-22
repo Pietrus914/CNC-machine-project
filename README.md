@@ -1,5 +1,4 @@
 # CNC-machine-project
-## a project that give me wind in my sails..
 
 This is my first CNC-machine project.
 
