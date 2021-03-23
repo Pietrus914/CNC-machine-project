@@ -26,3 +26,7 @@ Machine frame material: plywood 18 mm
 Spindles: Water-cooled Milling Spindle + 1.5KW
 
 Control: Mach 3
+
+![Concept project](./20496112_1508310069221328_691870874_n.png) 
+
+![Real photo of machine](./22882334_1587496284636039_843122078_o.jpg) 
